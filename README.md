@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on the simulation and analysis of ball bearing defects and their impact on vibration signals during run-up. For detailed methodology, equations, results, and explanations, please refer to the following documents in the `report/` directory:
 
-- **report_presentation.pdf** – Project summary, key results, and visualizations
+- **[REPORT](/reports/report_presentation.pdf)** – Project summary, key results, and visualizations
 - **state_space.pdf** – Detailed mathematical modeling and state-space analysis
 
 All technical details, equations, and simulation results are thoroughly documented in these reports.
